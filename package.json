@@ -1,0 +1,19 @@
+{
+  "name": "expedition-art",
+  "version": "1.0.0",
+  "description": "The art for Expedition: The Roleplaying Card Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExpeditionRPG/expedition-art.git"
+  },
+  "author": "",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/ExpeditionRPG/expedition-art/issues"
+  },
+  "homepage": "https://github.com/ExpeditionRPG/expedition-art#readme"
+}
