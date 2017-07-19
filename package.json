@@ -1,6 +1,6 @@
 {
   "name": "expedition-art",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "The art for Expedition: The Roleplaying Card Game",
   "main": "index.js",
   "scripts": {

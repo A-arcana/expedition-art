@@ -9,6 +9,7 @@ TODO references:
 - programs used
   - any setup steps?
   - export settings
+    - card backs: export as JPG (check "Use Artboard"), 300 DPI, RGB, include ICC profile. If horizontal, rotate resulting JPG
 - colors
   - abilities
   - encounters
